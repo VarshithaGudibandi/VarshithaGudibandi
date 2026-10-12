@@ -1,14 +1,32 @@
-## Hi, I’m Varshitha 👋
+# Hi, I'm Varshitha 👋
 
-I’m a Product + Analytics professional (ex-SDE in FinTech) who loves turning messy data and ambiguous problems into clear product decisions.
-I’ve worked across lending and B2B-B2C payments/SaaS—partnering with engineering, data, and business teams to ship improvements that move metrics.
+I enjoy solving complex problems by connecting technology,
+data, and business needs.
 
-### What I work on
-- Analytics: SQL/Python analysis, dashboards, KPI frameworks, experimentation basics
-- Product execution: requirements, PRDs, Agile delivery, stakeholder alignment
-- AI-enabled experiences: personalization concepts and recommendation systems basics
+My background spans software engineering, applied AI,
+product development, and business analytics.
 
-### Tools I use
-SQL • Python • Snowflake • Tableau/Power BI/Looker • Excel • Jira/Confluence • AWS • APIs
+### 💻 What I Work With
 
-📫 Reach me: varshithagudibandi@gmail.com | linkedin.com/in/varshithagudibandi
+**Languages:** Java, Python, SQL, TypeScript, JavaScript
+
+**Backend & Cloud:** Spring Boot, FastAPI, REST APIs,
+AWS, PostgreSQL, MySQL, Docker
+
+**AI & Automation:** LLMs, AI Agents, MCP, Claude,
+OpenAI, Pydantic, Vector Search, Pinecone
+
+**Product & Analytics:** Product Strategy, SQL,
+Jira, Confluence, Tableau, Power BI
+
+### 🚀 Featured Project
+
+**Revenue Reconciliation Agent**  
+Full-stack financial reconciliation system with deterministic
+matching, exception tracking, asynchronous processing,
+and optional AI-assisted explanations.
+
+### 🔗 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/varshithagudibandi)
+- [Portfolio](https://varshithagudibandi.lovable.app)
